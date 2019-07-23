@@ -1,0 +1,15 @@
+.ConverterBoard {
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    justify-content: center;
+
+    margin: 0.2rem;
+    padding: 0.1rem;
+    background-color: lightgrey;
+}
+
+.ConverterHeader {
+    background-color: purple;
+    text-align: center;
+}
